@@ -1,0 +1,2 @@
+# mypackage
+Typesquatting example
